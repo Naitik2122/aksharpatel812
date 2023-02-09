@@ -13,14 +13,14 @@
 ## ⚡ Languages and tools
 
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank">
-        <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+    <a href="https://www.python.org/" target="_blank">
+        <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
     </a> 
     <a href="https://www.javascript.com/" target="_blank">
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
     </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+    <a href="https://cplusplus.com/" target="_blank">
+        <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
     </a> 
 </p>
 
